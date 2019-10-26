@@ -1,0 +1,67 @@
+Page with most out links is https://www.ics.uci.edu/faculty/
+It contains 469 links
+
+
+Summary of subdomains visited
+
+chenli.ics: 53
+malek.ics: 8
+emj.ics: 2
+wics.ics: 4288
+luci.ics: 4
+webmail.ics: 22
+nagios.ics.uci: 1
+sherlock.ics: 1
+swiki.ics: 23
+intranet.ics: 346
+ugradforms.ics: 3
+sprout.ics: 2
+www.informatics: 27489
+matt-smith-v2.ics: 165
+pebble.ics: 3
+honors.ics: 374
+iasl.ics: 10
+mse.ics: 151
+mcs.ics: 747
+se4s.ics: 2
+evoke.ics: 256632
+ganglia.ics: 1346
+ics: 35
+nagios.ics: 1
+mondego.ics: 3
+calendar.ics: 481
+elnino.ics: 2
+richard-castle-v1.ics: 6
+ngs.ics: 1239
+netreg.ics: 22
+support.ics: 21
+isg.ics: 1
+transformativeplay.ics: 602
+student-council.ics: 2
+ganglia.ics.uci: 1
+sdcl.ics: 423
+radicle.ics: 1
+www.ics: 29191
+cwicsocal18.ics: 64
+mhcid.ics: 645
+grape.ics: 2622
+elms.ics: 6
+auge.ics: 8
+futurehealth.ics: 566
+keys.ics: 1
+cloudberry.ics: 805
+hana.ics: 2
+mswe.ics: 9
+duttgroup.ics: 2
+hombao.ics: 127
+jgarcia.ics: 3
+asterix.ics: 1
+codeexchange.ics: 2
+dejavu.ics: 1
+elnino.ics.uci: 2
+Page with most out links is 
+It contains 0 links
+
+
+Summary of subdomains visited
+
